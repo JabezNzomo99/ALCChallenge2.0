@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel Mantic</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="destination_name">Destination Name</string>
+    <string name="price_string">Price</string>
+    <string name="description_label">Description</string>
+    <string name="save">SAVE</string>
+    <string name="save_item">Save Item</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="image_for_place">Image for place</string>
+    <string name="delete_item">Delete Item</string>
+</resources>
